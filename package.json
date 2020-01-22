@@ -1,0 +1,18 @@
+{
+  "name": "showdown-prism",
+  "version": "1.0.0",
+  "description": "An extension for using PrismJS with Showdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Rose",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "prismjs": "^1.19.0",
+    "showdown": "^1.9.1"
+  }
+}
